@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw1Q04 {
+public class Hw1Q04 {
 	public static void main(String[] args) {
 		double num=3.1415;
 		int radius=5;

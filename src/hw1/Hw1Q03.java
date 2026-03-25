@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw1Q03 {
+public class Hw1Q03 {
 	public static void main(String[] args) {
 		int time=256559;
 		int day, hour, minute, second;

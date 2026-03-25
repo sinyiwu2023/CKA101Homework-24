@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw1Q05 {
+public class Hw1Q05 {
 	public static void main(String[] args) {
 		int money=1_500_000, year=10;
 		double rate=0.02;

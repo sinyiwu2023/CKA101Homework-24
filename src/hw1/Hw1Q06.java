@@ -1,6 +1,6 @@
 package hw1;
 
-public class hw1Q06 {
+public class Hw1Q06 {
 	public static void main(String[] args) {
 		int num1=5;
 		char a='5';

@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw2TestNineNine {
+public class Hw2TestNineNine {
 	public static void main(String[] args) {
 		//一：使用for迴圈+while迴圈
 		for(int i=1;i<=9;i+=1) {
