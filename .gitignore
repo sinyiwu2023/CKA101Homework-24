@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+bin/
+
+#註解
+#/是資料夾的意思
+#bin裡面放class檔
