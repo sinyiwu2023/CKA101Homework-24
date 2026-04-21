@@ -1,4 +1,4 @@
-package hw7.hw7Q04;
+package hw7.hw7Q04Q05;
 
 import java.io.EOFException;
 import java.io.File;
