@@ -2,14 +2,15 @@ package hw7.hw7Q04Q05;
 
 import java.io.Serializable;
 
-public class Cat extends Animal{
+public class Cat implements Speakable, Serializable{
+	private String name;
 	
 	public Cat(String name) {
-		super(name);
+		this.name = name;
 	}
 	
 	public void speak() {
-		System.out.println("This is Cat " + getName() + " speaking!");
+		System.out.println("This is Cat " + name + " speaking!");
 	}
 	
 }

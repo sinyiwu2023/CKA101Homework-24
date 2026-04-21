@@ -28,7 +28,7 @@ public class Readfile {
 		System.out.println("--------------------");
 		try {
 			while (true) {			
-				((Animal) ois.readObject()).speak();    //原為object物件，需轉型成Animal
+				((Speakable) ois.readObject()).speak();    //原為object物件，需轉型成Animal
 				System.out.println("--------------------");			
 			}
 		} catch (EOFException e) {
