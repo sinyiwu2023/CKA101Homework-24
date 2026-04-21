@@ -1,0 +1,15 @@
+package hw7.hw7Q04;
+
+import java.io.Serializable;
+
+public class Cat extends Animal{
+	
+	public Cat(String name) {
+		super(name);
+	}
+	
+	public void speak() {
+		System.out.println("This is Cat " + getName() + " speaking!");
+	}
+	
+}
